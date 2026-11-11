@@ -1,0 +1,6 @@
+{
+  "name": "MindCampus - Skrining & Pemantauan Kesehatan Mental Mahasiswa",
+  "description": "Platform skrining dan pemantauan berkala kesehatan mental mahasiswa bulanan dengan visualisasi grafik emosional, notifikasi pengingat, dan konseling personal real-time.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
